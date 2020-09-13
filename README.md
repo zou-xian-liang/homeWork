@@ -1,6 +1,8 @@
 # homeWork
 仅供ThoughtWork面试所用
 
+> 项目github地址：https://github.com/zou-xian-liang/homeWork
+
 ## 产品需求
 
 - 1、仿微信朋友圈实现个人朋友圈
