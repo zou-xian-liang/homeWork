@@ -1,5 +1,5 @@
 # homeWork
-仅供ThoughtWork面试所用
+仅供ThoughtWorks面试所用
 
 > 项目github地址：https://github.com/zou-xian-liang/homeWork
 
